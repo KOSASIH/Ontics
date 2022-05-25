@@ -1,0 +1,1 @@
+Ontics is open to anyone interested in contributing to its development.  To contribute, please read the available Code Of Conduct file and also an explanation of the guidance that is already available as a complete project.  All forms of contribution will be subject to and comply with applicable laws and regulations.
