@@ -4,7 +4,10 @@
 
 This repository is the authoritative source of release images of all blockchain technologies
 
- Ontics is the authoritative source of release images of all blockchain technologies. Whether you are building a blockchain product or are simply interested in learning more about the technology, Ontics is here to provide you with an easy-to-use and trustworthy source of data.
+Ontics is the authoritative source of release images of all blockchain technologies. Whether you are building a blockchain product or are simply interested in learning more about the technology, Ontics is here to provide you with an easy-to-use and trustworthy source of data.
+The Ontics team has been working diligently to develop a comprehensive list of all blockchain-related software, services, and user interfaces. Our goal is to provide an easy way for users to find images related to their projects, allowing them to quickly and easily add new images that are relevant to their work.
+
+Our vision is to make it easy for users to find what they need in order for their projects to succeed. We believe this will enable us to help individuals and companies alike achieve success with their projects by providing a simple solution that allows them to access the information they need quickly and easily.
  
  # Mission
  
