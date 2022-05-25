@@ -25,8 +25,5 @@ Our vision is to make it easy for users to find what they need in order for thei
  
  Blockchain Technology Images, Blockchain Technology Releases, Ontics Images, Blockchain Technology Release Images, Ontics Release Images: Ontics is the first and only provider of blockchain technology images. Our mission is to help Knowledge Economy to revolutionize their business model using visualized images that depict how each blockchain product and technology is designed. Detailed release images enable companies to improve understanding of complex technology, cut IT development costs by more than 15% and accelerate go-to-market time from three months to three weeks.
  
- # Site
- 
- https://codesandbox.io/embed/ontics-hr4l86?fontsize=14&hidenavigation=1&theme=dark
- 
+
  
